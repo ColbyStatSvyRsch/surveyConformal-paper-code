@@ -1,6 +1,7 @@
 # surveyConformal-paper-code
 
-R code and output associated with "Design-based conformal prediction," Wieczorek (2023+), accepted to [*Survey Methodology*](https://www150.statcan.gc.ca/n1/en/catalogue/12-001-X) for publication in late 2024. Preprint: https://arxiv.org/abs/2303.01422
+R code and output associated with ["Design-based conformal prediction,"](https://www150.statcan.gc.ca/n1/pub/12-001-x/2023002/article/00007-eng.htm) (Wieczorek, *Survey Methodology*, 49 (2), 2023).  
+Preprint version: https://arxiv.org/abs/2303.01422
 
 
 
